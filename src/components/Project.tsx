@@ -22,7 +22,7 @@ function Project() {
                 <p>Developed Hiring and Recruiting platform with Next, Node.js, and MongoDB.</p>
             </div>
             <div className="project">
-                <a href="https://galambo.com/" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://galambo.com/" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://galambo.com/" target="_blank" rel="noreferrer"><h2>Galambo</h2></a>
                 <p>Designed, developed, and launched AI Search engine.</p>
             </div>
